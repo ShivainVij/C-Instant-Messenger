@@ -1,0 +1,5 @@
+﻿  Client.cpp
+e:\c++\messaging\client\client\client.cpp(40): warning C4018: '<': signed/unsigned mismatch
+e:\c++\messaging\client\client\client.cpp(45): warning C4018: '<': signed/unsigned mismatch
+Client.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Client.vcxproj -> E:\C++\Messaging\Client\Debug\Client.exe

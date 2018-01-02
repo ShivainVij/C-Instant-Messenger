@@ -1,0 +1,4 @@
+﻿  Server.cpp
+e:\c++\messaging\server\server\server.cpp(40): warning C4018: '<': signed/unsigned mismatch
+e:\c++\messaging\server\server\server.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  Server.vcxproj -> E:\C++\Messaging\Server\Debug\Server.exe
